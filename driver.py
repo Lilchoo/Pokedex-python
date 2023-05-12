@@ -1,10 +1,5 @@
 """Module contains our facade, request, and commandline setup"""
 
-# Name: April Cheng
-# Student number: A01261858
-# Name: Benjamin Chen
-# Student number: A01268070
-
 import argparse
 import asyncio
 import datetime
