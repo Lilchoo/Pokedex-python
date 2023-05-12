@@ -2,6 +2,8 @@
 
 ### How it works:
 
-`python pokedex.py {"pokemon" | "ability" | "move"} {--inputfile 
+Use commandline to run the program, insert python driver.py -h for assistance with the commandline.
+
+`python driver.py {"pokemon" | "ability" | "move"} {--inputfile 
 "filename.txt" | --inputdata "name or id"} [--expanded] [--output "<NAME>.txt"]`
 
